@@ -4,4 +4,5 @@ numpy==1.24.3
 scikit-image==0.22.0
 matplotlib==3.8.2
 Werkzeug==3.0.1
-guvicorn
+gunicorn==21.2.0
+
